@@ -28,10 +28,11 @@
 ---
 
 ## ⚙️ Технологический стек
-- Telegram Bot API  
+- Telegram Bot API
+- Prompt Igineering
+- ChatGPT-4.1-mini
 - Google Sheets  
 - ProxyAPI
-- ChatGPT-4.1-mini  
 - n8n  
-- Prompt Igineering
+
   
