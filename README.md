@@ -16,12 +16,13 @@
 ---
 
 ## 📸 Скриншот реализации
-<a href="[https://t.me/hr_fleet_bot](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/n8n-hr.jpg)" target="_blank">👉 Посмотреть</a>
+👉 [Посмотреть]([https://t.me/hr_fleet_bot](https://t.me/hr_fleet_bot](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/n8n-hr.jpg)) 
 
 ---
 
 ## 🚀 Перейти к боту
-<a href="https://t.me/hr_fleet_bot" target="_blank">👉 Открыть бота в Telegram</a>
+👉 [Открыть бота в Telegram](https://t.me/hr_fleet_bot)
+
 
 ---
 
