@@ -16,7 +16,7 @@
 ---
 
 ## 📸 Скриншот реализации
-👉 [Посмотреть](https://t.me/hr_fleet_bot](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/n8n-hr.jpg)) 
+👉 [Посмотреть](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/n8n-hr.jpg) 
 
 ---
 
