@@ -26,7 +26,7 @@
 
 ## 📸 Скриншоты
 👉 [Реализация на n8n](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/hr_assistant_n8n.png)  
-👉 [Работа в Telegram и Grist](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/hr_assistant_tg_grist3.jpg))   
+👉 [Работа в Telegram и Grist](https://github.com/annutte/HR-assistant-fleetservice/blob/main/img/hr_assistant_tg_grist3.jpg)   
 
 ---
 
