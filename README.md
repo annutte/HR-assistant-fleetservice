@@ -30,12 +30,6 @@
 
 ---
 
-## 🚀 Перейти к боту
-👉 [Открыть бота в Telegram ↗](https://t.me/hr_fleet_bot)
-
-
----
-
 ## ⚙️ Технологический стек
 - ProxyAPI/OpenAI API
 - Google Sheets/Grist  
